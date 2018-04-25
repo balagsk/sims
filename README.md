@@ -4,7 +4,7 @@
 This project has been developed with basic admin and user operation module with simple HTML front end framework for beginners training purpose. 
 
 
-#Application Specification:
+# Application Specification:
 
 Java 1.6,
 
